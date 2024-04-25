@@ -1,4 +1,4 @@
-Parent-Child Color Change Example
+                                                              #Parent-Child Color Change Example
 This repository contains a simple React application that demonstrates how to change the color of a parent component based on input from a child component. The child component contains a color picker input, which allows the user to select a color. The selected color is then passed to the parent component to change the background color of a box in the parent component.
 
 How It Works
